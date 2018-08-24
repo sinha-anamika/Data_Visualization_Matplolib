@@ -1,5 +1,6 @@
 
-# In order to see the final report with data visualizations, please click https://github.com/sinha-anamika/Data_Visualization_Matplolib/blob/master/Final_Report/Project2_FinalReport_political_ad_data.pdf
+# In order to see the final report with data visualizations, please click 
+https://github.com/sinha-anamika/Data_Visualization_Matplolib/blob/master/Final_Report/Project2_FinalReport_political_ad_data.pdf
 
 ## Research Questions addressed in the project
 
